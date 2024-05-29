@@ -5,5 +5,4 @@
 <ul>
     <li>Herrera Rodriguez Weimar Jair</li>
     <li>Montaña Padilla Miguel Angel</li>
-    <li>Ruiz Muñoz Maria Monica</li>
 </ul>
